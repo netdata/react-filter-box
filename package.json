@@ -1,6 +1,6 @@
 {
-  "name": "react-filter-box",
-  "version": "3.4.1",
+  "name": "@netdata/react-filter-box",
+  "version": "1.0.0",
   "description": "Conditional filter supports OR/AND, bracket, Highlighting, Autocomplete, and high extensibility   ",
   "scripts": {
     "start": "node server.js",
@@ -19,23 +19,13 @@
   "main": "lib/react-filter-box.js",
   "types": "./lib/src/ReactFilterBox.d.ts",
   "keywords": [
-    "react-component",
     "react",
     "reactjs",
     "filter",
-    "condition",
-    "search",
-    "hmr",
-    "live",
-    "edit",
-    "webpack"
+    "condition"
   ],
-  "author": "nha bui duc <hugodichoi@gmail.com> (http://github.com/nhabuiduc)",
+  "author": "netdata frontend team",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/nhabuiduc/react-filter-box"
-  },
-  "homepage": "",
   "devDependencies": {
     "@babel/cli": "^7.0.0",
     "@babel/core": "^7.1.2",
