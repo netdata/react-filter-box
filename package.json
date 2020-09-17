@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nhabuiduc/react-filter-box"
+    "url": "https://github.com/netdata/react-filter-box"
   },
   "main": "lib/react-filter-box.js",
   "types": "./lib/src/ReactFilterBox.d.ts",
